@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Coffee Sales Dashboard using Excel</b>
+- <b>Projects on Excel</b>
   - [Coffee Sales Dashboard using EXcel](https://github.com/saineerajputta121/coffeesalesdashboarrd/tree/main)
-- <b>Data Cleaning using SQL</b>
+- <b>Projects on SQL</b>
   - [Data Cleaning Using SQL]()
 
