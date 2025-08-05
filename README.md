@@ -8,7 +8,7 @@
   - [Data Cleaning Using SQL](https://github.com/saineerajputta121/Data_cleaning_using_SQL)
   - [Exploratory Data Analysis Using SQL](https://github.com/saineerajputta121/Exploratory-Data-Analysis-using-SQL)
 - <b>Projects on Python</b>
-  - [Coffee Sales Dashboard using EXcel](https://github.com/saineerajputta121/coffeesalesdashboarrd/tree/main)
+  - [Cardiovascular Disease Prediction using Python ]()
 
 ## Certificates
 
