@@ -11,6 +11,6 @@
 ## Certificates
 
 - [PL-300 MICROSOFT DATA ANALYST CERTIFICATION](https://i.imgur.com/Ujd7vft.png)
-- [TABLEAUE DESKTOP CERTIFICATION](link-to-screenshot-2)
+- [TABLEAUE DESKTOP CERTIFICATION](https://i.imgur.com/sFN4EPm.png)
 
 
